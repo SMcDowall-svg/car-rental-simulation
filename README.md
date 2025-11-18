@@ -47,5 +47,11 @@ Additional Parameters:
 - Cost of service team charging one car: 6 €
 - Cost of a free minute given as an incentive to users: 0.29€
 
+**Objective**
+
+1. Simulate battery level of a car over 3 months.
+2. Test different incentives and different battery level thresholds under which the member gets free minutes for charging.
+3. Decide if we should offer our member free minutes for charging and if yes, come up with a good incentive / threshold mix.
+4. What are possible problems / open questions that might arise if we introduce member charging?
 
 
