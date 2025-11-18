@@ -4,7 +4,7 @@ A simulation of a car rental company testing different incentive programs
 
 **Context**
 
-Provided iqs the aggregated rental data per hour for "Sharetown" spanning two years. The data set is only comprised of the first 19 days of each month.
+Provided is the aggregated rental data per hour for "Sharetown" spanning two years. The data set is only comprised of the first 19 days of each month.
 
 **Objective** 
 
